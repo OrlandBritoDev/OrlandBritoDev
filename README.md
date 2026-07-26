@@ -8,7 +8,7 @@ and business questions with verified answers — not just "the code runs."
 🔭 Currently: working through Excel → SQL → Python → Power BI
 
 🔍 Recent finding: traced a $38.5K product-line loss to a 74% average
-   discount rate on failed transactions — [see the analysis →](https://github.com/OrlandBritoDev/superstore-loss-analysis)
+   discount rate on failed transactions — [see the full analysis](https://github.com/OrlandBritoDev/superstore-loss-analysis)
 
 🌎 Based in Venezuela (UTC-4) — open to remote roles aligned with US hours
 
